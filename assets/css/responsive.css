@@ -1,0 +1,776 @@
+/* Medium Layout:1280px. */
+@media only screen and (min-width:992px) and (max-width:1200px) {
+	.ikn {
+    font-size: 38px;
+    padding: 18px;
+}
+.social-textt p {
+		font-size: 14px;
+	}
+	.card-head.bg-dd h4 {
+		font-size: 20px;
+		text-align: center;
+	}
+.card-footer {
+    padding: 0px;
+}
+.hero-area-row {
+    padding-top: 145px;
+}
+.hero-logo-img {
+    padding-bottom: 20px;
+    width: 30%;
+}
+.hero-area-content h2 {
+    color: white;
+    font-size: 25px;
+}
+.hero-area-content hr {
+    margin: 10px 0px;
+}
+.hero-area-content p {
+    font-size: 15px;
+    padding-bottom: 35px;
+}
+.tab-col {
+    padding-top: 90px;
+    padding-bottom: 0px;
+}
+.tabcontent p {
+    padding-top: 25px;
+}
+.tabcontent button {
+    margin-top: 30px;
+    padding: 8px 35px;
+}
+.img-col {
+    padding-top: 100px;
+    padding-bottom: 120px;
+}
+.sub-text {
+    padding-top: 60px;
+}
+.sub-text h4 {
+    margin-bottom: 0px;
+}
+.sub-text p {
+    padding-top: 0px;
+    padding-bottom: 20px;
+}
+.sub-text p {
+    padding-top: 0px;
+    padding-bottom: 20px;
+    font-size: 13px;
+}
+.title-text h5 {
+    font-size: 18px;
+    font-weight: bold;
+}
+.title-ikn i {
+    font-size: 20px;
+    border: 2px solid #ff9b51;
+}
+.sub-img {
+    padding-top: 70px;
+}
+.title-row {
+    padding-bottom: 70px;
+}
+.standard-text h4 {
+    padding-top: 80px;
+}
+.standard-text p {
+    font-size: 15px;
+}
+.standard-img {
+    padding-top: 65px;
+    padding-bottom: 50px;
+}
+.awesome-head {
+    padding-top: 70px;
+    margin-bottom: 20px;
+}
+.awesome-head h1 {
+    font-size: 30px;
+    font-weight: bold;
+}
+.awesome-head hr {
+    margin-top: 10px;
+}
+.awesome-head p {
+    font-size: 14px;
+}
+.aw-icon {
+    padding-top: 20px;
+}
+.awesome-text h4 {
+    margin-top: 10px;
+    font-size: 20px;
+}
+.awesome-text p {
+    margin-top: 10px;
+    padding: 0px 10px;
+    font-size: 14px;
+}
+.awesome-area {
+    padding-bottom: 70px;
+}
+.awesome-area {
+    padding-bottom: 70px;
+}
+.price-head hr {
+    margin-top: 10px;
+}
+.price-card {
+    margin-top: 60px;
+}
+.price-row {
+    padding-bottom: 70px;
+}
+.customers-head {
+    padding-top: 70px;
+    padding-bottom: 50px;
+}
+.customers-area {
+    padding-bottom: 40px;
+}
+.style-text h2 {
+    margin: 60px 0px 25px;
+}
+.stylish-area {
+    padding-bottom: 50px;
+}
+.contact-head {
+    padding-top: 60px;
+}
+.contact-head hr {
+    margin-top: 10px;
+}
+.input-area {
+    margin-top: 50px;
+}
+.contact-button {
+    margin-top: 50px;
+    margin-bottom: 70px;
+}
+.contact-button button {
+    padding: 8px 25px;
+}
+.footer-area {
+    padding: 15px 0px;
+}
+}
+
+/* Tablet Layout: 768px. */
+@media only screen and (min-width:768px) and (max-width:991px) {
+	.hero-area-row {
+		padding-top: 120px;
+	}
+	a.navbar-brand {
+		width: 6%;
+	}
+	.hero-button {
+		padding-bottom: 0px;
+	}
+	.hero-logo-img img {
+		width: 40%;
+	}
+	.hero-area-content h2 {
+		font-size: 24px;
+	}
+	.hero-area-content hr {
+		width: 25%;
+		height: 2px;
+		margin: 15px 0px;
+	}
+	.hero-area-content p {
+		color: #bcbcbd;
+		font-size: 15px;
+		padding-bottom: 25px;
+	}
+	.hero-logo-img {
+		padding-bottom: 20px;
+	}
+	.card-head h4 {
+		font-size: 18px;
+	}
+	.card-head {
+		padding: 15px;
+	}
+	.card-footer {
+		padding: 0px;
+	}
+	.social-textt p {
+		font-size: 11px;
+	}
+	.ikn {
+		font-size: 25px;
+		padding:20px 0px 0px 29px;
+	}
+	.tab-col {
+		padding-top: 50px;
+		padding-bottom: 0px;
+	}
+	.tabcontent {
+		padding: 0px 5px;
+	}
+	.tabcontent h4 {
+		font-size: 23px;
+	}
+	.tabcontent p {
+		padding-top: 15px;
+		font-size: 12px;
+	}
+	.tabcontent button {
+		margin-top: 15px;
+		padding: 6px 15px;
+		font-size: 12px;
+	}
+	.img-col {
+		padding-top: 85px;
+		padding-bottom: 0px;
+	}
+	.sub-text {
+		padding-top: 70px;
+	}
+	.sub-text h4 {
+		margin-bottom: 0px;
+		font-size: 20px;
+	}
+	.sub-text hr {
+		height: 1px;
+	}
+	.sub-text p {
+		padding-top: 0px;
+		padding-bottom: 15px;
+		font-size: 13px;
+	}
+	.title-row {
+		padding-bottom: 30px;
+	}
+	.title-ikn i {
+		font-size: 17px;
+		border: 2px solid #ff9b51;
+		padding: 12px;
+	}
+	.title-text h5 {
+		font-size: 15px;
+		font-weight: bold;
+	}
+	.title-text p {
+		font-size: 10px;
+	}
+	.sub-img {
+		padding-top: 90px;
+	}
+	.standard-text h4 {
+		padding-top: 70px;
+		font-size: 22px;
+		font-weight: bold;
+	}
+	.standard-text hr {
+		height: 1px;
+		width: 25%;
+	}
+	.standard-text p {
+		font-size: 13px;
+		text-align: justify;
+	}
+	.standard-img {
+		padding-top: 80px;
+		padding-bottom: 50px;
+	}
+	.awesome-head {
+		padding-top: 50px;
+		margin-bottom: 0px;
+		text-align: center;
+	}
+	.awesome-head h1 {
+		font-size: 25px;
+		font-weight: bold;
+	}
+	.awesome-head hr {
+		margin-top: 10px;
+		height: 1px;
+	}
+	.awesome-head p {
+		font-size: 13px;
+	}
+	.aw-icon i {
+		border: 2px solid #ff8b38;
+		padding: 10px;
+		font-size: 15px;
+	}
+	.aw-icon {
+		padding-bottom: 0px;
+	}
+	.awesome-text h4 {
+		margin-top: 10px;
+		font-size: 17px;
+	}
+	.awesome-text p {
+		margin-top: 10px;
+		font-size: 13px;
+	}
+	.awesome-area {
+		padding-bottom: 50px;
+	}
+	.price-head {
+		padding-top: 50px;
+	}
+	.price-head h3 {
+		font-size: 25px;
+	}
+	.price-head hr {
+		margin-top: 10px;
+		height: 1px;
+	}
+	.price-head p {
+		font-size: 13px;
+	}
+	.price-card {
+		margin-top: 30px;
+	}
+	.card-top h6 {
+		padding: 10px 0px;
+		font-size: 12px;
+	}
+	.card-header h1 {
+		font-size: 40px;
+	}
+	.card-header h1 span {
+		font-size: 18px;
+	}
+	.card-header p {
+		font-size: 12px;
+	}
+	.pre-text h6 {
+		padding: 7px 0px 10px;
+		font-size: 12px;
+	}
+	.col-md-4.mt-5 {
+		margin-top: 2rem !important;
+	}
+	.card-body.text-center p {
+		font-size: 12px;
+	}
+	.card-body.text-center hr {
+		margin: 5px;
+	}
+	.price-row {
+		padding-bottom: 45px;
+	}
+	.customers-head {
+		padding-top: 40px;
+		padding-bottom:40px;
+	}
+	.customers-head h3 {
+		font-size: 25px;
+	}
+	.customers-head hr {
+		margin-top: 10px;
+		height: 1px;
+	}
+	.card-body.bg-light p {
+		font-size: 13px;
+		color: #535353;
+		text-align: justify;
+	}
+	.reviwer-name h4 {
+		font-size: 17px;
+		font-weight: bold;
+		margin-top: 8px;
+	}
+	.reviwer-name p{
+		font-size: 13px;
+	}
+	.customers-area {
+		padding-bottom: 0px;
+	}
+	.style-text h2 {
+		margin: 35px 0px 0px;
+		font-size: 40px;
+		font-weight: 500;
+	}
+	.style-text p {
+		font-size: 13px;
+		padding: 0px 161px;
+		color: #ffffff94;
+	}
+	.style-text button {
+		margin-top: 20px;
+		padding: 6px 30px;
+		border: 1px solid;
+		font-size: 13px;
+	}
+	.stylish-area {
+		padding-bottom: 35px;
+	}
+	.contact-head {
+		padding-top: 50px;
+	}
+	.contact-head h2 {
+		font-size: 25px;
+		font-weight: bold;
+	}
+	.contact-head hr {
+		margin-top: 10px;
+		height: 1px;
+	}
+	.contact-head p {
+		font-size: 15px;
+	}
+	.input-area {
+		margin-top: 35px;
+	}
+	input.form-control {
+		font-size: 13px;
+	}
+	textarea.form-control {
+		font-size: 13px;
+		height: 140px;
+	}
+	.contact-button button {
+		padding: 5px 25px;
+		font-size: 13px;
+	}
+	.contact-button {
+		margin-top: 25px;
+		margin-bottom: 45px;
+	}
+	.footer-area {
+		padding: 10px 0px;
+	}
+	.foot-icon i {
+		font-size: 15px;
+		margin: 10px 18px;
+	}
+	.copy {
+		padding-top: 5px;
+		font-size: 12px;
+	}
+	/*Scroll top*/
+	#scrollUp {
+		bottom: 15px;
+		right: 12px;
+	}
+}
+/* wide Mobile Layout;488px  */
+@media only screen and (min-width:480px) and (max-width:767px) {
+	
+}
+/* Mobile Layout: 320px;. */
+@media only screen and (max-width:767px) {
+	p{
+		font-size: 11px;
+	}
+
+	.navbar-brand {
+		padding-top:0rem;
+		padding-bottom:0rem;
+		width: 15%;
+	}
+	a.nav-link {
+    font-size: 12px;
+}
+	.navbar-toggler {
+		padding: 0px;
+		font-size: 14px;
+		line-height: 1;
+		border: 0px solid red;
+		border-radius: none;
+	}
+	.hero-area-row {
+		padding-top: 125px;
+	}
+	.hero-logo-img img {
+		width: 35%;
+	}
+	.hero-area-content h2 {
+		font-size: 30px;
+	}
+	.hero-area-content hr {
+		width: 35%;
+		margin: 10px 0px;
+	}
+	.hero-area-content p {
+		font-size: 15px;
+		padding-bottom: 20px;
+	}
+	.hero-button {
+		padding-bottom: 70px;
+	}
+	.hero-btn {
+		width: 100px;
+		height: 35px;
+		font-size: 14px;
+	}
+	.card-head.bg-dd h4 {
+		font-size: 20px;
+		text-align: center;
+	}
+	.card-footer {
+		padding: 0px;
+	}
+	.hero-card {
+		margin-bottom: 20px;
+	}
+	.ikn {
+		font-size: 25px;
+		padding: 7px;
+	}
+	.social-area {
+		border-bottom: 2px solid #9f9f9f;
+	}
+	.social-row {
+		padding: 15px 3px;
+	}
+	.tab-col {
+		padding-top: 35px;
+		padding-bottom: 0px;
+	}
+	.tab button {
+		padding: 30% 22%;
+		font-size: 12px;
+	}
+	.tabcontent h4 {
+		font-weight: bold;
+		font-size: 19px;
+	}
+	.tabcontent p {
+		padding-top: 15px;
+	}
+	.tab {
+		margin-right: 4%;
+	}
+	.tabcontent {
+		padding: 0px 0px;
+		width: 76%;
+		height: 0px;
+	}
+	.tabcontent button {
+		margin-top: 10px;
+		padding: 5px 15px;
+		font-size: 11px;
+	}
+	.img-col {
+		padding-top: 100px;
+		padding-bottom: 20px;
+	}
+	.sub-img {
+		padding-top: 25px;
+	}
+	.sub-text {
+		padding-top: 0px;
+		text-align: center;
+	}
+	.sub-text h4 {
+		margin-bottom: 0px;
+		font-size: 20px;
+	}
+	.sub-text hr {
+		height: 1px;
+	}
+	.sub-text p {
+		padding-top:0px;
+		padding-bottom: 8px;
+	}
+	.title-ikn i {
+		font-size: 20px;
+		border: 2px solid #ff9b51;
+		padding: 10px;
+		margin: 15px;
+	}
+	.offset-1.title-text h5 {
+		font-size: 15px;
+		text-align: left;
+		font-weight: bold;
+		margin-top: 15px;
+	}
+	.offset-1.title-text p {
+		font-size: 11px;
+		text-align: left;
+		margin-right: 22px;
+	}
+	.title-row {
+		padding-bottom: 15px;
+	}
+	.standard-text h4 {
+		padding-top: 20px;
+		font-size: 19px;
+		text-align: center;
+	}
+	.standard-text hr {
+		height: 2px;
+		width: 25%;
+		display: block;
+	}
+	.standard-img {
+		padding-top: 15px;
+		padding-bottom: 0px;
+	}
+	.awesome-head {
+		padding-top: 25px;
+		margin-bottom: 0px;
+	}
+	.awesome-head h1 {
+		font-size: 23px;
+		font-weight: bold;
+	}
+	.awesome-head hr {
+		margin-top: 15px;
+		height: 2px;
+		width: 25%;
+	}
+	.aw-icon {
+		padding-top: 25px;
+		font-size: 15px;
+	}
+	.aw-icon i {
+		border: 1px solid #ff8b38;
+		border-radius: 50%;
+		padding: 10px;
+	}
+	.awesome-text.text-center {
+		padding: 0px 11px;
+	}
+	.awesome-text h4 {
+		margin-top: 0px;
+		font-size: 17px;
+	}
+	.awesome-text p {
+		margin-top: 10px;
+	}
+	.awesome-area {
+		padding-bottom: 30px;
+	}
+	.price-head {
+		padding-top: 30px;
+	}
+	.price-head h3 {
+		font-size: 20px;
+	}
+	.price-head hr {
+		margin-top: 15px;
+		height: 2px;
+		width: 25%;
+	}
+	.price-card {
+		margin-top:0px;
+	}
+	.pro-card {
+		margin-top: 45px;
+	}
+	.card-top h6 {
+		padding: 10px 0px;
+	}
+	.card-top {
+		border-bottom: 1px solid #dddddd;
+	}
+	.card-header h1 {
+		font-size: 50px;
+	}
+	.card-header h1 span {
+		font-size: 20px;
+	}
+	.card-header {
+		border-bottom: 4px solid #ff8b38;
+	}
+	.pre-text h6 {
+		padding: 7px 0px;
+		font-size: 12px;
+	}
+	.card-top h6 {
+		font-size: 12px;
+	}
+	.price-row {
+		padding-bottom: 20px;
+	}
+	.customers-head {
+		padding-top: 30px;
+		padding-bottom: 20px;
+	}
+	.customers-head h3 {
+		font-size: 21px;
+	}
+	.customers-head hr {
+		margin-top: 15px;
+		height: 2px;
+		width: 20%;
+	}
+	.reviwer-name h4{
+		font-size: 19px;
+	}
+	.customers-area {
+		padding-bottom: 0px;
+	}
+	.stylish-area {
+		padding-bottom: 45px;
+	}
+	.style-text h2 {
+		margin-top: 50px;
+		margin-bottom: 0px;
+	}
+	.style-text p {
+		padding: 0px 37px;
+	}
+	.style-text hr {
+		width: 20%;
+		height: 1px;
+	}
+	.style-text button {
+		margin-top: 15px;
+		padding: 5px 45px;
+		border: 1px solid;
+		font-size: 12px;
+	}
+	.contact-head {
+		padding-top: 30px;
+	}
+	.contact-head h2 {
+		font-size: 20px;
+		font-weight: bold;
+	}
+	.contact-head hr {
+		margin-top: 15px;
+		height: 2px;
+		width: 20%;
+	}
+	.input-area {
+		margin-top: 20px;
+	}
+	.form-control {
+		font-size: 11px;
+	}
+	.contact-button {
+		margin-top: 25px;
+		margin-bottom: 30px;
+	}
+	.contact-button button {
+		padding: 5px 20px;
+		font-size: 12px;
+	}
+	.footer-area {
+		padding: 20px 0px;
+	}
+	.foot-icon i {
+		font-size: 20px;
+		margin: 9px;
+	}
+
+	/*Scroll top*/
+	#scrollUp{
+		height: 38px;
+		width: 38px;
+		bottom: 15px;
+		right: 10px;
+	}
+
+
+
+
+
+
+
+
+}	

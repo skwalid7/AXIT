@@ -1,0 +1,454 @@
+	
+/*	[Master Stylesheet]
+
+Project:    Axit
+Version:    1.0
+Last change:    24/03/17 [fixed Float bug, vf]
+Author Name: Author Name
+Primary use:    Project Type*/
+
+html{
+	scroll-behavior: smooth;
+}
+ul {
+	margin: 0;
+	padding: 0;
+}
+ul li {
+	list-style: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+	margin: 0;
+}
+p{
+	margin: 0;
+	color: #666;
+}
+
+/*My custom background color*/
+.bg-black{
+	background: black;
+}
+.bg-dd{
+	background: #f5f5f5;
+}
+
+/* hero-area  */
+
+.hero-area{
+	background:url('../img/hero_area_bg.jpg');
+	background-position:center;
+	background-size:cover;
+	width: 100%;
+	background-attachment: fixed;
+
+}
+/*Start nav css*/
+li.nav-item{
+	margin-left: 40px;
+}
+
+
+/*Start hero area css*/
+.hero-area-content{
+
+}
+.hero-area-row{
+	padding-top: 180px;
+}
+.hero-logo-img{
+	padding-bottom: 30px;
+}
+.hero-area-content h2{
+	color: white;
+}
+.hero-area-content hr{
+	background: #ddd;
+	width: 15%;
+	height: 3px;
+	display: inline-block;
+	margin:40px 0px;
+}
+.hero-area-content p{
+	color: #bcbcbd;
+	font-size: 19px;
+	padding-bottom: 45px;
+}
+.hero-button{
+	padding-bottom: 140px;
+}
+.hero-btn {
+    width: 130px;
+    height: 40px;
+    font-size: 13px;
+}
+.hero-btn{
+	width: 135px;
+	height: 45px;
+	border-radius: 0px;
+}
+.hero-card{
+	box-shadow: 0px 0px 20px 0px #00000024;
+	margin-bottom: 50px;
+}
+.card-head{
+	padding:20px;
+}
+.card-footer{
+	background:#ff9b51;
+	color: white;
+}
+.form-control{
+	border-top:none !important;
+	border-left:none !important;
+	border-right:none !important;
+}
+
+.social-area{
+	border-bottom:3px solid #9f9f9f;
+	background: white;
+}
+.social-row{
+	padding: 25px 0px;
+
+}
+.ikn{
+	color: #cdcdcd;
+	font-size: 45px;
+	padding: 18px;
+}
+.ikn:hover{
+	color: #ff9b51;
+}
+
+* {box-sizing: border-box}
+body {font-family: "Lato", sans-serif;}
+
+/* Style the tab */
+.tab {
+	float: left;
+	background-color: #333333;
+	width: 20%;
+	margin-right: 8%;
+
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+	display: block;
+	background-color: inherit;
+	color: white;
+	padding: 29%;
+	width: 100%;
+	border: 1px solid #f5f5f5;
+	outline: none;
+	text-align: left;
+	cursor: pointer;
+	transition: 0.3s;
+	font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+	background-color: #ff8b38;
+}
+
+/* Create an active/current "tab button" class */
+.tab button.active {
+	background-color: #ff8b38;
+}
+
+/* Style the tab content */
+.tabcontent {
+	float: left;
+	padding: 0px 12px;
+	width: 70%;
+	height: 300px;
+}
+.tabcontent h4{
+	font-weight: bold;
+
+}
+.tabcontent p{
+	padding-top: 60px;
+	text-align: justify;
+}
+.tabcontent button{
+	margin-top: 50px;
+	background: #ff8b38;
+	padding: 12px 35px;
+	color:white;
+}
+
+/*Start tab area*/
+
+.tab-area{
+	background: #f5f5f5;
+}
+.tab-col{
+	padding-top: 145px;
+	padding-bottom: 115px;
+}
+.img-col{
+	padding-top: 160px;
+	padding-bottom: 100px;
+}
+
+/*Sub area*/
+.sub-area{
+	background-color: white;
+}
+.sub-img{
+	padding-top: 110px;
+}
+.sub-text{
+	padding-top: 100px;
+}
+.sub-text h4{
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+.sub-text hr{
+	height: 3px;
+	background-color: #ff8b38;
+	width: 15%;
+	display: inline-block;
+}
+.sub-text p{
+	padding-top: 20px;
+	padding-bottom: 30px;
+}
+.title-row{
+	padding-bottom: 100px;
+}
+.title-ikn {
+    margin-top: 0px;
+}
+.title-ikn i {
+	font-size: 30px;
+	border: 3px solid #ff9b51;
+	padding: 20px;
+	border-radius: 50px;
+	color:#ff9b51;
+}
+.title-text p{
+	padding-top:5px;
+	padding-bottom: 30px;
+}
+/*Start Starndard text area*/
+.standard-area{
+	background-color: #f5f5f5;
+}
+.standard-text h4{
+	padding-top: 110px;
+	font-weight: bold;
+}
+.standard-text hr{
+	height: 3px;
+	background-color: #ff8b38;
+	width: 15%;
+	display: inline-block;
+}
+.standard-img{
+	padding-top: 85px;
+	padding-bottom: 100px;
+}
+/*Start Awesome icon area*/
+.awesome-area{
+	background-color: white;
+	padding-bottom: 105px;
+}
+.awesome-head{
+	padding-top: 105px;
+	margin-bottom: 75px;
+	text-align: center;
+}
+.awesome-head hr{
+	margin-top: 25px;
+	height: 3px;
+	background-color: #ff8b38;
+	width: 10%;
+}
+.awesome-text h4{
+	margin-top: 30px;
+	font-weight: bolder;
+}
+.awesome-text p{
+	margin-top: 25px;
+
+}
+.aw-icon{
+	padding-top: 30px;
+	padding-bottom: 10px;
+	font-size: 20px;
+}
+.aw-icon i{
+	border:3px solid #ff8b38;
+	border-radius: 50px;
+	padding:20px;
+	color: #ff8b38;
+}
+/*Start Price Area css*/
+.price-area{
+	background-color: #f5f5f5;
+}
+.price-head{
+	padding-top: 90px;
+}
+.price-card{
+	margin-top: 100px;
+}
+.price-head h3{
+	color: black;
+}
+.price-head hr{
+	margin-top: 25px;
+	height: 3px;
+	background-color: #ff8b38;
+	width: 10%;
+}
+.card{
+	border:none;
+	border-radius: 0px;
+}
+.card-header{
+	background-color: #313131;
+	border-bottom: 6px solid #ff8b38;
+}
+.card-top{
+	border-bottom: 2px solid #dddddd;
+}
+.card-top h6{
+	color:white;
+	font-weight: bold;
+	padding: 20px 0px 20px;
+	background-color: #313131;
+	text-align: center;
+}
+.card-header h1{
+	color: white;
+	font-weight: bold;
+	font-size: 70px;
+}
+
+.card-header h1 span{
+	font-weight: bold;
+	font-size:30px;
+	color:white !important;
+}
+.card-header p{
+	padding-top: 10px;
+	color:#bcbcbc;
+}
+.pre-text{
+	background-color: #ff8b38;
+}
+.pre-text h6{
+	padding: 10px 0px;
+	color:white;
+	text-align: center;
+	font-weight: bold;
+}
+.price-row{
+	padding-bottom: 110px;
+}
+/*Start Customers Area css*/
+.customers-area{
+	background-color: #ffffff;
+	padding-bottom: 100px;
+}
+.customers-head{
+	padding-top: 90px;
+	padding-bottom: 100px;
+}
+.customers-head h3{
+	color: black;
+}
+.customers-head hr{
+	margin-top: 25px;
+	height: 3px;
+	background-color: #ff8b38;
+	width: 10%;
+}
+/*Start Stylish design css*/
+.stylish-area{
+	background-image: url('../img/stylish_bg.jpg');
+	background-size: cover;
+	width: 100%;
+	height: auto;
+	padding-bottom: 60px;
+}
+.style-text h2{
+	margin: 75px 0px 25px;
+	color: white;
+}
+.style-text hr{
+	width:10%;
+	background-color: #fff;
+	height:2px;
+}
+.style-text p{
+	color: #e0e0e0;
+}
+.style-text button{
+	margin-top: 33px;
+	border-radius: 0px;
+	padding:8px 33px;
+	border:2px solid;
+}
+/*Start Conatct Area css*/
+.contact-area{
+	background-color: #ffffff;
+	padding-bottom: 100px;
+}
+.contact-head{
+	padding-top: 90px;
+}
+.contact-head h2{
+	color: black;
+}
+.contact-head hr{
+	margin-top: 25px;
+	height: 3px;
+	background-color:#ff8b38;
+	width: 10%;
+}
+.input-area{
+	margin-top: 100px;
+}
+.contact-button{
+	margin-top: 50px;
+	margin-bottom: 100px;
+}
+.contact-button button{
+	background-color: #ff8b38;
+	color: white;
+	padding: 12px 35px;
+}
+/*START FOOTER*/
+.foot-icon i{
+	color: #939393;
+	font-size:30px;
+	margin:10px;
+}
+.foot-icon i:hover{
+	color: #ff8b38;
+}
+.footer-area{
+	background-color: black;
+	padding:50px 0px; 
+}
+.copy{
+	padding-top: 15px;
+}
+.copy a{
+	color: #666;
+}
+.copy a:hover{
+	color: #ff8b38;
+}
